@@ -8,7 +8,7 @@ This repository documents my systematic journey to mastering SQL. It covers ever
 * **Day 1: Mastering Window Functions** ✅
     * *Core Skills:* Data partitioning, ranking logic, and trend analysis using professional window frames.
     * *Key Syntax:* `OVER()`, `PARTITION BY`, `ROWS/RANGE BETWEEN`, `LEAD/LAG`.
-    * *Deliverable:* [Day1_Window_Functions.sql](./Day1_Window_Functions.sql)
+    * *Deliverable:* [Day1_Window_Functions.sql](./Day1_WindowFunctions_Practice.sql) 
 
 * **Day 2: Structural Query Design (CTEs & Subqueries)** ⏳
     * *Goal:* Writing clean, modular, and maintainable code for complex business logic.
